@@ -1,0 +1,9 @@
+.travelmainDiv{
+    border: 1px solid lightgray;
+}
+.travelmainDiv img{
+    width: 100%
+}
+.travelmainDiv h5 , .travelmainDiv p{
+    margin: 20px;
+}
